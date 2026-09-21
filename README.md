@@ -319,18 +319,6 @@ I'm interested in working with founders, startups, and businesses building:
 * Enterprise web platforms
 * Custom AI integrations
 
-### 📫 Contact
-
-**Portfolio:** [mhammad.app](https://www.mhammad.app/)
-
-**LinkedIn:** [linkedin.com/in/mhammadapp](https://www.linkedin.com/in/mhammadapp/)
-
-**GitHub:** [github.com/HammadAhmad200](https://github.com/HammadAhmad200)
-
-**Email:** [hammad.ahmad2000@gmail.com](mailto:hammad.ahmad2000@gmail.com)
-
----
-
 <p align="center">
   <b>Building software where AI, automation, and real business workflows meet.</b>
 </p>
